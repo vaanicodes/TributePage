@@ -1,0 +1,9 @@
+body {background-color: bisque; front whte;}
+p{color:black;}
+h1{color: PaleVioletRed;}
+li{color:black}
+h3{color: PaleVioletRed;}
+img {
+  display: block
+    max-width: 100%;
+}
